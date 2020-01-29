@@ -1,0 +1,24 @@
+{
+  "name": "guess-my-and-title",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeFoodPixels/guess-my-and-title.git"
+  },
+  "author": "Luke Bonaccorsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeFoodPixels/guess-my-and-title/issues"
+  },
+  "homepage": "https://github.com/CodeFoodPixels/guess-my-and-title#readme",
+  "dependencies": {
+    "@slack/events-api": "^2.3.1",
+    "@slack/rtm-api": "^5.0.3",
+    "@slack/web-api": "^5.7.0"
+  }
+}
